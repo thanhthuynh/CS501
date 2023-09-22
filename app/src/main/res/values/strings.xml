@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment 1 Application</string>
+    <string name="greeting_text">Hi, my name is %1$s.</string>
+</resources>
